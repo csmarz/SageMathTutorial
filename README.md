@@ -1,6 +1,6 @@
 # SageMathTutorial
 # EN:
-This repository contains several .ipynb files used as supplements of "SageMath Tutorial for Elementary Cryptography". This tutorial provides a SageMath guide for elementary cryptography intended for undergraduate students in Indonesia. The tutorial as well as codes descriptions are only available in Bahasa Indonesia. There are five .ipnyb files, each corresponds to the chapter (or topic) in the main document, namely Tutorial-Topik1.ipynb (for Topic 1), Tutorial-Topik2.ipynb (for Topic 2), Tutorial-Topik3.ipynb (for Topic 4), and Tutorial-Topik5.ipynb (for Topic 5).
+This repository contains several .ipynb files used as supplements of "SageMath Basics Tutorial for Elementary Cryptography". This tutorial provides a SageMath guide for elementary cryptography intended for undergraduate students in Indonesia. The tutorial as well as codes descriptions are only available in Bahasa Indonesia. There are five .ipnyb files, each corresponds to the chapter (or topic) in the main document, namely Tutorial-Topik1.ipynb (for Topic 1), Tutorial-Topik2.ipynb (for Topic 2), Tutorial-Topik3.ipynb (for Topic 4), and Tutorial-Topik5.ipynb (for Topic 5).
 
 To use these .ipynb files properly, you might need to restart the Kernel after completing one subtopic. This can be done by choosing Kernel in the menu bar and then select Restart. You also might want to clear all outputs by selecting Restart & Clear Output.
 
